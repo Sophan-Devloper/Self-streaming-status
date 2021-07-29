@@ -14,7 +14,7 @@
 - [Click here to remix](https://glitch.com/edit/#!/remix/streaming-bot-status)
 - `.env` file put 
 ```json
-TOKEN=
+TOKEN=paste-token-here
 ```
 ### Support
  - https://discord.gg/e5u77TSCKY
