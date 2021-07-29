@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Music Bot</h1>
+    <h1>Self Streaming Status</h1>
 </div>
 
 ----
