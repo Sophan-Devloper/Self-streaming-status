@@ -16,7 +16,7 @@
 ```json
 TOKEN=paste-token-here
 ```
-###How to get self Token?
+### **How to get self Token?**
 - [Click here](https://github.com/Tyrrrz/DiscordChatExporter/wiki/Obtaining-Token-and-Channel-IDs)
 
 ### Support
