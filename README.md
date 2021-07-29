@@ -10,7 +10,12 @@
 ### **How to use?**
 - Download the repo, reanme `example-config.json` file to `config.json` file, and add your `token` into it.
 - Do `npm install` than `node .` to running codes
-
+### **Glitch Hosting**
+- [Click here to remix](https://glitch.com/edit/#!/remix/streaming-bot-status)
+- `.env` file put 
+```json
+TOKEN=
+```
 ### Support
  - https://discord.gg/e5u77TSCKY
 
