@@ -8,10 +8,5 @@ BOT.on('ready', () => {
       });
    console.log(`${BOT.user.username} Successfully Logged in!`)
 })
-BOT.on('message', msg => {
-    if (msg.content === 'ping') {
-      msg.reply('pong');
-    }
-  });
 
 BOT.login(TOKEN);
