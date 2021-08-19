@@ -1,5 +1,5 @@
 {
-    "TOKEN": "your-token-here"
-    "STATUS": "your description"
+    "TOKEN": "your-token-here",
+    "STATUS": "your description",
     "TwitchURL": "https://www.twitch.tv/monstercat"
 }
