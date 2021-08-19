@@ -3,9 +3,9 @@ const BOT = new Client();
 const { TOKEN, STATUS, TwitchURL } = require('./config.json');
 // create an event listener
 BOT.on('ready', () => { 
-    BOT.user.setActivity(`${STATUS}`, {
+    BOT.user.setActivity(STATUS, {
         type: "STREAMING",
-        url: `${TwitchURL}`
+        url: TwitchURL
       });
    console.log(`${BOT.user.username} Successfully Logged in!`)
 })
