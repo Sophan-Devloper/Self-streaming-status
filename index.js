@@ -1,6 +1,6 @@
 const { Client } = require('discord.js-selfbot-v11')
 const BOT = new Client();
-const { TOKEN, STATUS , TwitchURL } = require('./config.json');
+const { TOKEN, STATUS, TwitchURL } = require('./config.json');
 BOT.on('ready', () => { 
     BOT.user.setActivity(`${STATUS}`, {
         type: "STREAMING",
